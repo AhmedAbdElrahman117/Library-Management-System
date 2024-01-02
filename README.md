@@ -2,7 +2,7 @@ This app built with C++ and Qt 6.6 Framework
 Database used in this app is Sqlite 3 with Sqlite Studio
 the System for libraries
 represents several features like
-1- Dashboard 
+1- Dashboard
     to show statistics of the books students and borrows
 2- Students
     to add new students with thier name,department,id,year,date and time
